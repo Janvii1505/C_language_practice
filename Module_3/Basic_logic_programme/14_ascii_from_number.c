@@ -1,0 +1,12 @@
+//14.Find ascii value of given number
+#include<stdio.h>
+main(){
+	int a;
+	
+	printf("\n\n\t Enter any number for the character : ");
+	scanf("%d",&a);
+
+	printf("\n\n\t Circumference of Rectangle is : %c",a);
+	
+	
+}
